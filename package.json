@@ -1,0 +1,6 @@
+{
+  "name": "webpack-hmr-topology-repros",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Index of minimal webpack HMR topology, ownership, dependency and version-coherence reproductions"
+}

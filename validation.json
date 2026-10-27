@@ -1,0 +1,98 @@
+[
+  {
+    "repo": "webpack-hmr-chunk-topology-propagation-repro",
+    "control": false,
+    "exit": 1,
+    "expectedExit": 1
+  },
+  {
+    "repo": "webpack-hmr-chunk-topology-propagation-repro",
+    "control": true,
+    "exit": 0,
+    "expectedExit": 0
+  },
+  {
+    "repo": "webpack-hmr-extracted-css-migration-repro",
+    "control": false,
+    "exit": 1,
+    "expectedExit": 1
+  },
+  {
+    "repo": "webpack-hmr-extracted-css-migration-repro",
+    "control": true,
+    "exit": 0,
+    "expectedExit": 0
+  },
+  {
+    "repo": "webpack-hmr-loaded-async-dependency-repro",
+    "control": false,
+    "exit": 1,
+    "expectedExit": 1
+  },
+  {
+    "repo": "webpack-hmr-loaded-async-dependency-repro",
+    "control": true,
+    "exit": 0,
+    "expectedExit": 0
+  },
+  {
+    "repo": "webpack-hmr-new-initial-chunk-repro",
+    "control": false,
+    "exit": 1,
+    "expectedExit": 1
+  },
+  {
+    "repo": "webpack-hmr-new-initial-chunk-repro",
+    "control": true,
+    "exit": 0,
+    "expectedExit": 0
+  },
+  {
+    "repo": "webpack-hmr-retained-module-dependency-repro",
+    "control": false,
+    "exit": 1,
+    "expectedExit": 1
+  },
+  {
+    "repo": "webpack-hmr-retained-module-dependency-repro",
+    "control": true,
+    "exit": 0,
+    "expectedExit": 0
+  },
+  {
+    "repo": "webpack-hmr-single-runtime-ownership-repro",
+    "control": false,
+    "exit": 1,
+    "expectedExit": 1
+  },
+  {
+    "repo": "webpack-hmr-single-runtime-ownership-repro",
+    "control": true,
+    "exit": 0,
+    "expectedExit": 0
+  },
+  {
+    "repo": "webpack-hmr-unversioned-chunk-race-repro",
+    "control": false,
+    "exit": 1,
+    "expectedExit": 1
+  },
+  {
+    "repo": "webpack-hmr-unversioned-chunk-race-repro",
+    "control": true,
+    "exit": 0,
+    "expectedExit": 0
+  },
+  {
+    "repo": "webpack-hmr-worker-initial-chunk-repro",
+    "control": false,
+    "exit": 1,
+    "expectedExit": 1
+  },
+  {
+    "repo": "webpack-hmr-worker-initial-chunk-repro",
+    "control": true,
+    "exit": 0,
+    "expectedExit": 0
+  }
+]
